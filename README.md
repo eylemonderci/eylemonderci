@@ -9,6 +9,7 @@ Pixel art ve oyun tasarımı hobim.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eylemonderci&layout=compact&theme=radical)](https://github.com/eylemonderci)
 [![trophy](https://github-profile-trophy.vercel.app/?username=eylemonderci&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eylemonderci&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eylemonderci&theme=radical)](https://git.io/streak-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=eylemonderci&theme=radical&row=1&column=7)]
 
 ---
 
