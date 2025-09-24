@@ -17,7 +17,7 @@ Pixel art ve oyun tasarımı hobim.
 
 ## 📫 İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eylemönderci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eylemondercı)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eylemonderrci@gmail.com)
 
 ## 🛠️ Tech Stack
