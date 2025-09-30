@@ -1,6 +1,6 @@
 # Merhaba 👋 Ben Eylem Önderci
 
-Yönetim Bilişim Sistemleri öğrencisi, Python & Veri Madenciliği alanında kendimi geliştiriyorum.  
+Yönetim Bilişim Sistemleri öğrencisi, Python & Frontend alanında kendimi geliştiriyorum.  
 Pixel art ve oyun tasarımı hobim.  
 
 ## 📊 GitHub İstatistiklerim
