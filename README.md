@@ -1,7 +1,6 @@
 # Merhaba 👋 Ben Eylem Önderci
 
-Yönetim Bilişim Sistemleri öğrencisi, Python & Frontend alanında kendimi geliştiriyorum.  
-Pixel art ve oyun tasarımı hobim.  
+Yönetim Bilişim Sistemleri Lisans Öğrencisi | Bulut Altyapı ve Ağ Yönetimi (GCP/Network) | Python ile Arka Plan Geliştirme | Mobil Uygulama Mimarisi | Teknik Altyapı ve İş Süreçleri Optimizasyonu 
 
 ![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=eylemonderci.visitor-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=eylemonderci&color=ff69b4&style=flat-square)
