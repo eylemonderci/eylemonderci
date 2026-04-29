@@ -46,6 +46,6 @@ Kurumsal sistem altyapıları, ağ güvenliği ve veri analitiği süreçlerine 
 ---
 
 ## 📫 İletişim
-
+[![Medium](https://img.shields.io/badge/Medium-Yazılarımı_Oku-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eylemonderrci)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilime_Git-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eylemondercı)  
 [![Email](https://img.shields.io/badge/Email-Bana_Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eylemonderrci@gmail.com)
