@@ -1,51 +1,114 @@
- Merhaba 👋 Ben Eylem Önderci
+<h1 align="center">Merhaba, ben Eylem Önderci 👋</h1>
 
-**Yönetim Bilişim Sistemleri Lisans Öğrencisi | Sistem & Ağ Yönetimi Stajyeri | Veri Odaklı Yazılım Geliştirici**
+<h3 align="center">Mobil Uygulama Geliştirici · Veri & Yapay Zeka Odaklı Yazılımcı</h3>
 
-Kurumsal sistem altyapıları, ağ güvenliği ve veri analitiği süreçlerine odaklanan bir MIS öğrencisiyim. Şu anda kurumsal seviyede sanallaştırma, sunucu yönetimi ve ağ topolojileri üzerine pratik deneyim kazanırken, Python ve veri analitiği çözümleri geliştiriyorum.
+<p align="center">
+  Yönetim Bilişim Sistemleri mezunuyum. Kotlin ile Android uygulamaları geliştiriyor,
+  Python ile veri analitiği ve açıklanabilir yapay zeka (XAI) çözümleri üzerinde çalışıyorum.
+  Kurumsal altyapı tarafındaki deneyimim, geliştirdiğim yazılımları uçtan uca düşünmemi sağlıyor.
+</p>
 
-![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=eylemonderci.visitor-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=eylemonderci&color=ff69b4&style=flat-square)
+<p align="center">
+  <a href="https://www.linkedin.com/in/eylemonderci"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:eylemonderrci@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-posta"/></a>
+  <a href="https://medium.com/@eylemonderrci"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <img src="https://komarev.com/ghpvc/?username=eylemonderci&color=1f6feb&style=flat-square&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme" alt="Profil görüntülenme"/>
+</p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 🚀 Odak Alanlarım
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=eylemonderci&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eylemonderci&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+| | |
+|---|---|
+| 📱 **Mobil Geliştirme** | Kotlin ve Android Studio ile Android uygulamaları |
+| 🧠 **Veri & Yapay Zeka** | Python (Pandas, Scikit-learn), makine öğrenmesi, açıklanabilir YZ (LIME) |
+| 🗄️ **Veri Yönetimi** | SQL ile veri modelleme ve sorgulama |
+| ☁️ **Altyapı Bilgisi** | VMware, Active Directory, ağ ve bulut temelleri |
 
 ---
 
-## 🛠️ Tech Stack & Yetkinlikler
+## 🛠️ Teknolojiler
 
-### 🏗️ Altyapı, Sistem & Ağ Yönetimi (Enterprise Experience)
-- ![VMware](https://img.shields.io/badge/VMware-vSphere%20%2F%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
-- ![Active Directory](https://img.shields.io/badge/Active_Directory-Windows_Server-0078D4?style=for-the-badge&logo=windows-server&logoColor=white)
-- ![pfSense](https://img.shields.io/badge/pfSense-Firewall%20%26%20Network-000000?style=for-the-badge&logo=pfsense&logoColor=white)
-- ![HPE](https://img.shields.io/badge/HPE-ProLiant_Server_Gen11%2F12-01A982?style=for-the-badge&logo=hewlett-packard-enterprise&logoColor=white)
-- ![GCP](https://img.shields.io/badge/Google_Cloud-Infrastructure-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Mobil**
 
-### 💻 Yazılım Geliştirme & Veri
-- ![Python](https://img.shields.io/badge/Python-Data_Processing%20%2F%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-Database_Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/Kotlin-Mobile_Architecture-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### 🎨 Yaratıcı Araçlar & Tasarım
-- ![Blender](https://img.shields.io/badge/Blender-3D_Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-- ![Aseprite](https://img.shields.io/badge/Aseprite-Pixel_Art-FF6347?style=for-the-badge&logo=aseprite&logoColor=white)
+**Veri & Yapay Zeka**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Geliştirme Araçları**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%20%7C%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Altyapı & Bulut**
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![HPE](https://img.shields.io/badge/HPE-01A982?style=flat-square&logo=hewlettpackardenterprise&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Yaratıcı Araçlar**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square)
 
 ---
 
 ## 📂 Öne Çıkan Çalışmalar
-* **Kurumsal Altyapı Yönetimi:** VMware vSphere üzerinde ESXi ve vCenter kurulumları, sanal makine migrasyonları (Hyper-V to ESXi) ve Active Directory yönetimi.
-* **Ağ Güvenliği:** pfSense üzerinde firewall kuralları ve ağ topolojisi yapılandırmaları.
-* **Veri Madenciliği & Yapay Zeka:** KOBİSmart projesi kapsamında açıklanabilir YZ (XAI) tabanlı finansal karar destek sistemleri.
-* **Dijital Strateji:** PixelQuest projesi ile kreatif içerik yönetimi ve sosyal medya pazarlama stratejileri.
+
+### 🧠 KOBİSmart: XAI Tabanlı Finansal Karar Destek Sistemi
+*TÜBİTAK destekli proje*
+
+KOBİ'ler için finansal risk tahmini yapan, kararlarını **açıklayabilen** bir karar destek sistemi.
+- Finansal risk modellerine **LIME** ile şeffaflık kazandırdım.
+- Python ve makine öğrenmesi ile faaliyet giderleri, alacak devir hızı gibi kritik finansal faktörleri analiz ettim.
+
+`Python` `Pandas` `Scikit-learn` `LIME`
+
+### 📱 Mobil Projeler
+Kotlin ile geliştirdiğim Android projeleri için pinlenmiş repolarıma göz atabilirsin.
+
+### 🎮 PixelQuest
+Kreatif içerik üretimi, dijital strateji ve topluluk odaklı bir proje.
+
+---
+
+## 🏗️ Altyapı Deneyimi
+
+Yazılım geliştirmenin çalıştığı ortamı da iyi anlıyorum:
+
+- **VMware vSphere (ESXi / vCenter):** sanal sunucu kurulumu, kaynak planlaması, performans takibi ve Hyper-V'den ESXi'ye migrasyon
+- **Active Directory & Exchange:** kullanıcı, yetki ve GPO yönetimi; e-posta akış sorunlarının çözümü
+- **Ağ güvenliği:** pfSense ile firewall kuralları ve ağ topolojisi
+- **HPE sertifikaları (Nisan 2026):** MSA Depolama & Felaket Kurtarma, SimpliVity & vSphere Entegrasyonu, Kurumsal Ağ Mimarisi
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eylemonderci&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub istatistikleri" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eylemonderci&layout=compact&theme=github_dark&hide_border=true" alt="En çok kullanılan diller" width="48%"/>
+</p>
 
 ---
 
 ## 📫 İletişim
-[![Medium](https://img.shields.io/badge/Medium-Yazılarımı_Oku-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eylemonderrci)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilime_Git-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eylemondercı)  
-[![Email](https://img.shields.io/badge/Email-Bana_Ulaşın-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eylemonderrci@gmail.com)
+
+Mobil, veri ve yapay zeka projeleri ya da iş birlikleri için bana LinkedIn veya e-posta üzerinden ulaşabilirsin.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eylemonderci"><img src="https://img.shields.io/badge/LinkedIn-Profilime_Git-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:eylemonderrci@gmail.com"><img src="https://img.shields.io/badge/E--posta-Bana_Ulaş-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
+</p>
